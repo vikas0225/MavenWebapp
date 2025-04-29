@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>VIKAS Home Page</title>
+<title>Mandalapu Home Page</title>
 <link href="images/kkfunda.jpg" rel="icon">
 </head>
 </head>
